@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatguuyg&label=Profile%20views&color=0e75b6&style=flat" alt="thatguuyg" /> </p>
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatguuyg" alt="thatguuyg" /></a> </p>
 
 - 📫 How to reach me **odugeagak@gmail.com**
