@@ -5,7 +5,7 @@
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatguuyg" alt="thatguuyg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatguuyg" alt="thatguuyg" /></a> </p>
 
 - 📫 How to reach me **odugeagak@gmail.com**
 
