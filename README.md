@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thatguuyg" alt="thatguuyg" /></a> </p>
 
-- 📫 How to reach me **odugeagak@gmail.com**
+- 📫 You can reach me at: **odugeagak@gmail.com**
 
 - ⚡ Fun fact **I believe in the Impossible, I love music and you'd probably find me singing or Vibing to some classical music.**
 
