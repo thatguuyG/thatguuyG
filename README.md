@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatguuyg&label=Profile%20views&color=0e75b6&style=flat" alt="thatguuyg" /> </p>
 
-<p align="center"> 
+<!-- Meme generator here -->
+<!-- <p align="center"> 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." align="center">
-</p>
+</p> -->
 
 <div align="center">
 <!--   add link to personal site here -->
