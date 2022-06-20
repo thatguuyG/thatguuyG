@@ -10,7 +10,8 @@
 </p>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+<!--   add link to personal site here -->
+  <a href="">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
