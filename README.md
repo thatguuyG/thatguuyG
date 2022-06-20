@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Glen Agak</h1>
 <h4 align="center">A passionate Full-stack developer from Kenya</h4>
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatguuyg&label=Profile%20views&color=0e75b6&style=flat" alt="thatguuyg" /> </p>
 
@@ -40,3 +40,4 @@
 
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
 
+ </div>
