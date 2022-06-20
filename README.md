@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Glen Agak</h1>
-<h3 align="center">A passionate Full-stack developer from Kenya.</h3>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Glen Aga</h1>
+<h4 align="center">A passionate Full-stack developer from Kenyay</h4>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatguuyg&label=Profile%20views&color=0e75b6&style=flat" alt="thatguuyg" /> </p>
 
