@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/thatguuyG">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Building+Scalable+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
   </a>
 </p>
 
